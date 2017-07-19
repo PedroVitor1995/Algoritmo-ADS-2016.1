@@ -1,0 +1,55 @@
+{'nota2': 7.1, 'media': 6.755, 'situacao': 'PROVA FINAL', 'nota1': 5.41, 'nome': 'ALEXSANDER MAGNUM AMURIM PINHEIRO'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'ANDERSON GUILHERME ALMENDRA SILVA CUNHA'}
+{'nota2': 0.0, 'media': 2.665, 'situacao': 'EVADIDO', 'nota1': 5.33, 'nome': 'ANDRESSA RIBEIRO DE MESQUITA'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'ANTONIO COSTA NASCIMENTO'}
+{'nota2': 5.9, 'media': 6.8225, 'situacao': 'PROVA FINAL', 'nota1': 6.745, 'nome': 'ARTUR ROCHA DE SOUSA'}
+{'nota2': 7.0, 'media': 7.1825, 'situacao': 'APROVADO', 'nota1': 6.365, 'nome': 'BRENO VINICIUS BARROS SOUSA'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'BRUNO ROCHA GOMES MACEDO'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'CARLOS ALBERTO ALVES COELHO JUNIOR'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'CARLOS EDUARDO ALVES DE SOUSA'}
+{'nota2': 0.0, 'media': 2.0625, 'situacao': 'EVADIDO', 'nota1': 4.125, 'nome': 'DANIEL GONCALVES REIS'}
+{'nota2': 0.0, 'media': 1.9875, 'situacao': 'EVADIDO', 'nota1': 3.975, 'nome': 'DANIEL TORRES DE OLIVEIRA SILVA'}
+{'nota2': 1.0, 'media': 3.7125, 'situacao': 'REPROVADO', 'nota1': 5.425, 'nome': 'DIEGO DA SILVA MENDES'}
+{'nota2': 7.0, 'media': 7.0225, 'situacao': 'APROVADO', 'nota1': 6.045, 'nome': 'EDSON BORGES DE SOUSA FILHO'}
+{'nota2': 8.04, 'media': 8.157499999999999, 'situacao': 'APROVADO', 'nota1': 7.275, 'nome': 'ERICO REGO DIAS'}
+{'nota2': 5.2, 'media': 6.905, 'situacao': 'PROVA FINAL', 'nota1': 7.61, 'nome': 'ERMESON DOS SANTOS SOUSA'}
+{'nota2': 8.84, 'media': 9.557500000000001, 'situacao': 'APROVADO', 'nota1': 9.275, 'nome': 'FABIANO DE SANTANA RIBEIRO SOBRINHO'}
+{'nota2': 0.0, 'media': 0.71, 'situacao': 'EVADIDO', 'nota1': 1.42, 'nome': 'FELLYPE EDUARDO SILVA SALES'}
+{'nota2': 7.4, 'media': 6.6625, 'situacao': 'PROVA FINAL', 'nota1': 4.925, 'nome': 'FRANCISCO ROBERTH DE BRITO SANTOS'}
+{'nota2': 0.0, 'media': 2.495, 'situacao': 'EVADIDO', 'nota1': 4.99, 'nome': 'GABRIEL RODRIGUES DA SILVA SOUSA'}
+{'nota2': 0.0, 'media': 3.02, 'situacao': 'EVADIDO', 'nota1': 6.04, 'nome': 'GEOVANE FALCO RIBEIRO DE LIMA'}
+{'nota2': 0.7, 'media': 3.6125000000000003, 'situacao': 'REPROVADO', 'nota1': 5.525, 'nome': 'GERSON CAVALCANTE MOURA NETO'}
+{'nota2': 7.6, 'media': 7.785, 'situacao': 'APROVADO', 'nota1': 6.97, 'nome': 'GUILHERME RODRIGUES SIMEÃO'}
+{'nota2': 0.0, 'media': 3.045, 'situacao': 'EVADIDO', 'nota1': 6.09, 'nome': 'HENRIQUE DA SILVA GARCIA'}
+{'nota2': 6.04, 'media': 6.8875, 'situacao': 'PROVA FINAL', 'nota1': 6.735, 'nome': 'HIDELBRANDO DOS SANTOS RIOS'}
+{'nota2': 8.02, 'media': 7.8774999999999995, 'situacao': 'APROVADO', 'nota1': 6.735, 'nome': 'JEFFERSON LUIS RIBEIRO DE LIMA'}
+{'nota2': 4.8, 'media': 5.7425, 'situacao': 'PROVA FINAL', 'nota1': 5.685, 'nome': 'JESSICA HELEM DA CRUZ SANTOS'}
+{'nota2': 7.0, 'media': 6.835, 'situacao': 'PROVA FINAL', 'nota1': 5.67, 'nome': 'JHONATAN MATHEUS SOUSA COSTA'}
+{'nota2': 6.13, 'media': 6.6775, 'situacao': 'PROVA FINAL', 'nota1': 6.225, 'nome': 'JOAO DE AREA LEAO NETO'}
+{'nota2': 5.61, 'media': 6.49, 'situacao': 'PROVA FINAL', 'nota1': 6.37, 'nome': 'JOAO VICTOR SOUSA OLIVEIRA'}
+{'nota2': 5.5, 'media': 6.7225, 'situacao': 'PROVA FINAL', 'nota1': 6.945, 'nome': 'JOSEPH OLIVEIRA CHAVES'}
+{'nota2': 6.5, 'media': 6.4875, 'situacao': 'PROVA FINAL', 'nota1': 5.475, 'nome': 'JULIANA BEATRIZ MARQUES'}
+{'nota2': 9.62, 'media': 9.29, 'situacao': 'APROVADO', 'nota1': 7.96, 'nome': 'KAIRO EMANNOEL COSTA DE SOUZA'}
+{'nota2': 7.44, 'media': 7.2625, 'situacao': 'APROVADO', 'nota1': 6.085, 'nome': 'KASSIO LUCAS DE HOLANDA LEODIDO'}
+{'nota2': 3.3, 'media': 5.395, 'situacao': 'PROVA FINAL', 'nota1': 6.49, 'nome': 'LEONARDO LAMBERTO DE SANTANA SALMENTO'}
+{'nota2': 7.16, 'media': 7.797499999999999, 'situacao': 'APROVADO', 'nota1': 7.435, 'nome': 'LEONARDO TORRES PEREIRA'}
+{'nota2': 0.0, 'media': 2.0325, 'situacao': 'EVADIDO', 'nota1': 4.065, 'nome': 'LILIANE DO NASCIMENTO FERREIRA MELO'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'LUAN GABRIEL RIBEIRO LEAL'}
+{'nota2': 0.0, 'media': 1.65, 'situacao': 'EVADIDO', 'nota1': 3.3, 'nome': 'LUCAS BANDEIRA DO REGO LAGES'}
+{'nota2': 5.0, 'media': 6.7125, 'situacao': 'PROVA FINAL', 'nota1': 7.425, 'nome': 'LUCAS PEREIRA NEVES'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'LUIS SOCRATES SOUSA DE ASSIS'}
+{'nota2': 8.05, 'media': 7.875, 'situacao': 'APROVADO', 'nota1': 6.7, 'nome': 'LUIZ FRANCISCO LOPES JUNIOR'}
+{'nota2': 0.0, 'media': 2.5275, 'situacao': 'EVADIDO', 'nota1': 5.055, 'nome': 'MARCOS FERREIRA NASCIMENTO BISNETO'}
+{'nota2': 0.0, 'media': 3.2125, 'situacao': 'REPROVADO', 'nota1': 5.425, 'nome': 'MARIANNA NASCIMENTO TEIXEIRA'}
+{'nota2': 0.0, 'media': 4.0025, 'situacao': 'EVADIDO', 'nota1': 8.005, 'nome': 'MARIANO BARBOSA DE CARVALHO NETO'}
+{'nota2': 7.1, 'media': 8.235, 'situacao': 'APROVADO', 'nota1': 8.37, 'nome': 'MATEUS OLIVEIRA SILVA'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'MIGUEL FRANCISCO DE ARAUJO JUNIOR'}
+{'nota2': 7.26, 'media': 8.18, 'situacao': 'APROVADO', 'nota1': 8.1, 'nome': 'OSMAR RIBEIRO DE SALES JUNIOR'}
+{'nota2': 5.93, 'media': 6.8149999999999995, 'situacao': 'PROVA FINAL', 'nota1': 6.7, 'nome': 'PABLO HENRIQUE LIMA SANTOS'}
+{'nota2': 5.97, 'media': 6.797499999999999, 'situacao': 'PROVA FINAL', 'nota1': 6.625, 'nome': 'PEDRO VITOR FURTADO'}
+{'nota2': 0.0, 'media': 0.0, 'situacao': 'EVADIDO', 'nota1': 0.0, 'nome': 'RICARDO PEREIRA GUEDES'}
+{'nota2': 5.4, 'media': 7.995, 'situacao': 'APROVADO', 'nota1': 9.59, 'nome': 'RONDINELE E SILVA SOUZA'}
+{'nota2': 5.03, 'media': 6.855, 'situacao': 'PROVA FINAL', 'nota1': 7.68, 'nome': 'RUBENS VICTOR SOUSA DE CARVALHO'}
+{'nota2': 7.44, 'media': 8.7225, 'situacao': 'APROVADO', 'nota1': 9.005, 'nome': 'SYWRAH GABRIELLA NORBERTO DA CUNHA'}
+{'nota2': 0.0, 'media': 4.035, 'situacao': 'EVADIDO', 'nota1': 8.07, 'nome': 'WENDERSON PACHECO SILVA'}
+{'nota2': 6.68, 'media': 8.0625, 'situacao': 'APROVADO', 'nota1': 8.445, 'nome': 'WILDRIMAK DE SOUZA PEREIRA'}
