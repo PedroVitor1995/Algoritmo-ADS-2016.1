@@ -1,0 +1,5 @@
+{'id': 1, 'continente': 'AMERICA', 'atletas': 420, 'populacao': 200000000, 'nome': 'BRASIL'}
+{'id': 2, 'continente': 'ASIA', 'atletas': 500, 'populacao': 3000000000, 'nome': 'CHINA'}
+{'id': 3, 'continente': 'EUROPA', 'atletas': 340, 'populacao': 5000000, 'nome': 'FRANCA'}
+{'id': 4, 'continente': 'OCEANIA', 'atletas': 200, 'populacao': 3000000, 'nome': 'AUSTRALIA'}
+{'id': 5, 'continente': 'AFRICA', 'atletas': 100, 'populacao': 80000000, 'nome': 'AFRICA DO SUL'}

@@ -1,0 +1,2 @@
+{'idade': 12, 'sigla_curso': 'ADS', 'sexo': 'F', 'nome': 'MARIA JOSE'}
+{'idade': 12, 'sigla_curso': 'ADS', 'nome': 'Jose', 'sexo': 'M'}
